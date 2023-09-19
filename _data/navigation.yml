@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
+    url: /files/Resume.pdf
+
+  - title: "Cover Letter"
+    url: https://github.com/tomascampo/personal-info/blob/main/coverletter.pdf  
+
+  - title: "Publications"
+    url: https://revistas.udistrital.edu.co/index.php/GDLA/pubant    
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Portfolio"
+    #url: /portfolio/
+        
+  #- title: "Blog Posts"
+   # url: /year-archive/
+    
+  #- title: "CV"
+   # url: /cv/
+    
+  #- title: "Guide"
+  #  url: /markdown/
