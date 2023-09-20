@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: https://revistas.udistrital.edu.co/index.php/GDLA/pubant    
         
-  #- title: "Blog Posts"
-   # url: /year-archive/
+  - title: "Current Project"
+    url: /solid/
     
   #- title: "CV"
    # url: /cv/
