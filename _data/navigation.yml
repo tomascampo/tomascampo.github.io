@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /files/Resume.pdf
 
-  - title: "Cover Letter"
-    url: https://github.com/tomascampo/personal-info/blob/main/coverletter.pdf  
+  #- title: "Cover Letter"
+    #url: https://github.com/tomascampo/personal-info/blob/main/coverletter.pdf  
+
+  - title: "Undergraduate Thesis"
+    url: http://repository.pedagogica.edu.co/handle/20.500.12209/18271
 
   - title: "Publications"
     url: https://revistas.udistrital.edu.co/index.php/GDLA/pubant    
-    
-  #- title: "Portfolio"
-    #url: /portfolio/
         
   #- title: "Blog Posts"
    # url: /year-archive/
