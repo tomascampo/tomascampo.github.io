@@ -19,5 +19,5 @@ Current Project
 ------
 
 I am looking for a definition of solid in the context of Graph Theory that allows to establish isomorphisms of solids by means of algebraic isomorphisms. 
-![SEIFM-Logo](/images/scilazi.jpg){:width="300px"}
+![SEIFM-Logo](/images/scilazi.jpg){: .align-center width="300px"}
 
