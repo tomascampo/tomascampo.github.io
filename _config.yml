@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tomás Campo"
   avatar           : "propc.jpeg"
-  bio              : "B.Sc in Physics & M.Sc in Mathematics candidate"
+  bio              : "B.Sc in Physics" #& M.Sc in Mathematics candidate
   location         : "Bogotá, Colombia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   github           : "tomascampo"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/seinfismat/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
