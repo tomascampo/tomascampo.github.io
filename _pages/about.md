@@ -17,7 +17,7 @@ Research Interests
 Topological K-Theory, Fibre Bundles & Homotopy Theory.
 
 
-![Tansition Map between two local trivializations](/images/twolocaltriv.jpeg){: width="200px"}
+![Tansition Map between two local trivializations](/images/twolocaltriv.jpeg){: width="400px"}
 
 Current Project
 ------
