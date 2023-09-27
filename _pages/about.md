@@ -13,12 +13,7 @@ I'm a Mathematics Teacher at 'Colegio de la Universidad Libre'. I co-founded the
 
 
 Research Interests
-======
+------
 Topological K-Theory, Fibre Bundles & Homotopy Theory.
 
-
-Current Project
-------
-
-I am looking for a definition of solid in the context of Graph Theory that allows to establish isomorphisms of solids by means of algebraic isomorphisms. 
 
