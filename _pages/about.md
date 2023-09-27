@@ -17,13 +17,10 @@ Research Interests
 Topological K-Theory, Fibre Bundles & Homotopy Theory.
 
 
-![Tansition Map between two local trivializations](/images/twolocaltriv.jpeg)
+![Tansition Map between two local trivializations](/images/twolocaltriv.jpeg){: width="200px"}
 
 Current Project
 ------
 
 I am looking for a definition of solid in the context of Graph Theory that allows to establish isomorphisms of solids by means of algebraic isomorphisms. 
-
-
-![SEIFM-Logo](/images/scilazi.jpg){: .align-center width="300px"}
 

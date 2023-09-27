@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomás Campo"
+title                    : "TC | Website"
 title_separator          : "-"
 name                     : &name "Tomás D. Campo"
 description              : &description "Greetings, people. My name is Tomás Campo and this is my Online CV, where you can find my research interets and you will be able to contact me."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tomás Campo  Website"
+  name             : "Tomás Campo"
   avatar           : "propc.jpeg"
   bio              : "B.Sc in Physics" #& M.Sc in Mathematics candidate
   location         : "Bogotá, Colombia"
