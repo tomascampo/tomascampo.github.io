@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![SEIFM-Logo](/images/cirlogo.png){: .align-right width="200px"}
-I'm a Mathematics Teacher at 'Colegio de la Universidad Libre'. I co-founded the 'Semillero Estudiantil de Investigación en Física-Matemática' ([SEIFM](https://seinfismat.github.io/)) of the Universidad Pedagógica Nacional, led by Professor Sandra Ávila.
+I'm a Mathematics Teacher at 'Colegio de la Universidad Libre'. I co-founded the 'Semillero Estudiantil de Investigación en Física-Matemática' ([SEIFM](https://seinfismat.github.io/)) of the [Universidad Pedagógica Nacional](https://www.upn.edu.co/), led by Professor Sandra Ávila.
 Currently, I serve as coordinator of [SEIFM](https://seinfismat.github.io/).
 
 Research Interests
