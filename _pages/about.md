@@ -11,12 +11,9 @@ redirect_from:
 I'm a Mathematics Teacher at 'Colegio de la Universidad Libre'. I co-founded the 'Semillero Estudiantil de Investigación en Física-Matemática' ([SEIFM](https://seinfismat.github.io/)) of the Universidad Pedagógica Nacional, led by Professor Sandra Ávila.
 Currently, I serve as coordinator of [SEIFM](https://seinfismat.github.io/).
 
-
-
 Research Interests
 ------
 Topological K-Theory, Fibre Bundles & Homotopy Theory.
-
 
 Current Projects
 ------
