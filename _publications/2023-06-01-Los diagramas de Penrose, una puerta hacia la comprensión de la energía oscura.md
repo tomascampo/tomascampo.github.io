@@ -1,7 +1,7 @@
 ---
 title: "Los diagramas de Penrose, una puerta hacia la comprensión de la energía oscura"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-06-01-Los diagramas de Penrose, una puerta hacia la comprensión de la energía oscura.md
 excerpt: 'Publicación anticipada V18, NUMERO ESPECIAL, 2023. 11 Congreso Nacional de Enseñanza de la Física y la Astronomía.'
 date: 2023-06-01
 venue: 'Góndola, enseñanza y aprendizaje de las ciencias. Universidad Distrital Francisco José de Caldas.'
