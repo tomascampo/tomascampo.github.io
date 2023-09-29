@@ -10,7 +10,7 @@ main:
     url: http://repository.pedagogica.edu.co/handle/20.500.12209/18271
 
   - title: "Publications"
-    url: https://revistas.udistrital.edu.co/index.php/GDLA/pubant    
+    url: /_publications/   
         
   - title: "SEIFM"
     url: https://seinfismat.github.io/
