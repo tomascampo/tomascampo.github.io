@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-11th National Congress on Physics and Astronomy Education
+Undergraduate Thesis
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.thesis %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Undergraduate Thesis
+11th National Congress on Physics and Astronomy Education
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
