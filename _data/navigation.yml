@@ -10,7 +10,7 @@ main:
     url: http://repository.pedagogica.edu.co/handle/20.500.12209/18271
 
   - title: "Publications"
-    url: /publications/2023-06-01.md   
+    url: /_publications/2023-06-01.md   
         
   - title: "SEIFM"
     url: https://seinfismat.github.io/
