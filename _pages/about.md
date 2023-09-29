@@ -16,8 +16,8 @@ Topological K-Theory, Fibre Bundles & Homotopy Theory.
 
 Current Projects
 ------
-1. Topological & geometric aspects of Spacetime (Talk).
-1. Equivalence classes of Vector Bundles (Talk).  
+1. What is Spacetime? Topological & geometric aspects (Talk).
+1. Classisification of Hausdorff Topological Spaces via equivalence classes of Vector Bundles (Talk).  
 1. Definition of solids in the context of Graph Theory (Paper).
 
 
