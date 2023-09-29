@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
+11th National Congress on Physics and Astronomy Education
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
