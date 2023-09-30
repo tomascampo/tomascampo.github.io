@@ -11,8 +11,8 @@ redirect_from:
 
 Undergraduate Thesis
 ======
-  <ul>{% for post in site.thesis %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 
