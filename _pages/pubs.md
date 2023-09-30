@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Undergraduate Thesis
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-
 11th National Congress on Physics and Astronomy Education
 ======
   <ul>{% for post in site.publications %}
