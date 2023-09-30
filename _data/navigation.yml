@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/CV.pdf
+    url: /cv/
 
   #- title: "Cover Letter"
     #url: https://github.com/tomascampo/personal-info/blob/main/coverletter.pdf  
