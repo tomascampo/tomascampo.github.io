@@ -14,7 +14,7 @@ Research Interests
 ------
 1. Topological K-Theory
 2. Fibre Bundles
-3. Homotopy Theory.
+3. Homotopy Theory
 
 Current Projects
 ------
