@@ -27,6 +27,19 @@ Universidad de Antioquia, Medellín.
 Talk: <i>Osciladores acoplados amortiguados</i>.
 Unihorizonte, Bogotá, D.C.
 
+Proceedings
+------
+1. [<i>Funciones vectoriales, su diferenciabilidad y aplicaciones en la Física</i>](https://www.researchgate.net/publication/352909467_Funciones_vectoriales_su_diferenciabilidad_y_aplicaciones_en_la_Fisica).
+2021.
+Teaching Assistant writings.
+Universidad Pedagógica Nacional, Bogotá, D.C.
+
+1. [<i>Reflexiones matemáticas del teorema electrostático de Gauss</i>](https://www.researchgate.net/publication/352909651_Reflexiones_matematicas_del_teorema_electrostatico_de_Gauss).
+2021.
+Teaching Assistant writings.
+Universidad Pedagógica Nacional, Bogotá, D.C.
+
+
 PDF
 ------
 You can download my CV [here](/files/CV.pdf).
