@@ -17,7 +17,7 @@ Universidad Pedagógica Nacional, Bogotá, D.C.
 
 Events
 ------
-1. Speaker at the <i>11th National Congress on Physics and Astronomy Education</i>.
+1. Speaker at the [<i>11th National Congress on Physics and Astronomy Education</i>](https://revistas.udistrital.edu.co/index.php/GDLA/pubant).
 2022.
 Poster: <i>Penrose Diagrams, a door towards the comprehension of Dark Energy</i>.
 Universidad de Antioquia, Medellín.
