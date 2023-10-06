@@ -39,6 +39,11 @@ Universidad Pedagógica Nacional, Bogotá, D.C.
 Teaching Assistant writings.
 Universidad Pedagógica Nacional, Bogotá, D.C.
 
+Experience
+------
+<i>Physics and Mathematics Teaching Assistant</i>.
+2020-2021.
+Universidad Pedagógica Nacional, Bogotá, D.C.
 
 PDF
 ------
