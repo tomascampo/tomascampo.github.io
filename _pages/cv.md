@@ -22,7 +22,7 @@ Events
 Poster: <i>Penrose Diagrams, a door towards the comprehension of Dark Energy</i>.
 Universidad de Antioquia, Medellín.
 
-2. Speaker at the [<i>Segundo encuentro de Ciencias Básicas</i>](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://unihorizonte.edu.co/wp-content/uploads/2022/11/Prueba1-Revista-Teckne-1-2017-Final-1_compressed.pdf).
+2. Speaker at the [<i>Segundo encuentro de Ciencias Básicas</i>](https://unihorizonte.edu.co/wp-content/uploads/2022/11/Prueba1-Revista-Teckne-1-2017-Final-1_compressed.pdf).
 2017.
 Talk: <i>Osciladores acoplados amortiguados</i>.
 Unihorizonte, Bogotá, D.C.
