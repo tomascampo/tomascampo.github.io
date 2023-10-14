@@ -15,6 +15,12 @@ Some of my work
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Teaching Assitance Lectures
 ======
   <ul>{% for post in site.teaching %}
