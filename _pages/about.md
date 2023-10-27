@@ -23,7 +23,7 @@ Research Interests
 Current Projects
 ------
 1. What is Spacetime? Topological & geometric aspects (Talk).
-1. Classisification of Hausdorff Topological Spaces via equivalence classes of Vector Bundles (Talk).  
+1. Classisification of Vector Bundles: An Introduction to Topological K-Theory (Talk).  
 1. Definition of solids in the context of Graph Theory (Paper).
 
 
