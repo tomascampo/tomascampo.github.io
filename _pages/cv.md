@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+PDF
+------
+You can download my CV [here](/files/CV.pdf).
 
 Formal Education
 ------
@@ -50,6 +53,3 @@ Experience
 2020-2021.
 Universidad Pedagógica Nacional, Bogotá, D.C.
 
-PDF
-------
-You can download my CV [here](/files/CV.pdf).
