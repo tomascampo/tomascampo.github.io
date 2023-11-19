@@ -22,7 +22,7 @@ Events
 ------
 1. Speaker at the [<i>First Seminar On Mathematics</i>](https://seinfismat.github.io/fsom/).
 2022.
-Poster: <i>Clasificación de haces vectoriales: Una introducción a la K-Teoría Topológica</i>.
+Talk: <i>Clasificación de haces vectoriales: Una introducción a la K-Teoría Topológica</i>.
 Universidad Libre sede El Bosque, Bogotá.
 
 1. Speaker at the [<i>11th National Congress on Physics and Astronomy Education</i>](https://revistas.udistrital.edu.co/index.php/GDLA/pubant).
