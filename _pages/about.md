@@ -17,13 +17,12 @@ I'm a Teacher of Mathematics at [Colegio de la Universidad Libre](https://www.un
 Research Interests
 ------
 1. Topological K-Theory
-2. Fibre Bundles
+2. Vector Bundles
 3. Homotopy Theory
 
 Current Projects
 ------
-1. What is Spacetime? Topological & geometric aspects (Talk).
-1. Classisification of Vector Bundles: An Introduction to Topological K-Theory (Talk).  
+1. What is Spacetime? Topological & geometric aspects (Talk). 
 1. Definition of solids in the context of Graph Theory (Paper).
 
 
