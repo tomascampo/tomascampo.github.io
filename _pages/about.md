@@ -22,7 +22,7 @@ Research Interests
 
 Current Projects
 ------
-1. Structure of Riemannian Geometry from a categoical viewpoint. 
+1. Structure of Riemannian Geometry from a categorical viewpoint (Talk). 
 1. Definition of solids in the context of Graph Theory (Paper).
 
 
