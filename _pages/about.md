@@ -23,6 +23,7 @@ Research Interests
 Current Projects
 ------
 1. Structure of Riemannian Geometry from a categorical viewpoint (Talk). 
+1. Proposal for a mathematical perspective on the notion of noun in linguistics (Talk).
 1. Definition of solids in the context of Graph Theory (Paper).
 
 
