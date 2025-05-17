@@ -23,7 +23,7 @@ Research Interests
 Current Projects
 ------
 1. Structure of Riemannian Geometry from a categorical viewpoint (Talk). 
-1. Proposal for a mathematical perspective on the notion of Saussure's sign (Paper).
+1. Proposal for a mathematical perspective on Saussure's notion of sign (Paper).
 1. Definition of solids in the context of Graph Theory (Talk).
 
 
