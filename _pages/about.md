@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![SEIFM-Logo](/images/cirlogo.png){: .align-right width="200px"}
-I co-founded the <i>Semillero Estudiantil de Investigación en Física-Matemática</i> ([SEIFM](https://seinfismat.github.io/)), which is directed by <i>M.Sc.</i> [Sandra Ávila](https://repositorio.unal.edu.co/handle/unal/76834), Professor of Physics at [Universidad Pedagógica Nacional](https://www.upn.edu.co/). Currently, I serve as leader & coordinator of the [SEIFM](https://seinfismat.github.io/).
+I am a guide and manager of the Math Camp of the project “Strengthening of Critical Reading-Mathematics and Social-Emotional Skills”, of the UN-SED agreement. I co-founded the <i>Semillero Estudiantil de Investigación en Física-Matemática</i> ([SEIFM](https://seinfismat.github.io/)), which is directed by <i>M.Sc.</i> [Sandra Ávila](https://repositorio.unal.edu.co/handle/unal/76834), Professor of Physics at [Universidad Pedagógica Nacional](https://www.upn.edu.co/). Currently, I serve as leader & coordinator of the [SEIFM](https://seinfismat.github.io/).
 
 
 
